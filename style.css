@@ -201,17 +201,21 @@ padding-left: 150px;
     font-weight: 600;
     font-size: 18px;
 }
-
-.About-us{
+.About-us-container{
+    display: flex;
     background-color: #072019;
-    width: 80%;
-    height: 200px;
-    margin-left: 150px;
+    width: 100%;
+    height: 180px;
+    /* margin-left: 150px; */
     margin-top: 50px;
     text-align: center;
+}
+.a_image img{
+    height: 180px;
+    width: 320px;
    
   }
-  .About-us h3{
+.About-us h3{
     font-size: 30px;
     color: #0b910b;
     font-weight: 550;
