@@ -163,7 +163,8 @@ padding-left: 150px;
 .c_images{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
-    padding: 20px 30px;
+    padding-top: 20px;
+    padding-left: 150px;
     
     
 }
@@ -174,6 +175,7 @@ padding-left: 150px;
     height: 330px;
     margin-left: 150px;
     margin-top: 50px;
+    
 }
 .book_categories h1{
     text-align: center;
